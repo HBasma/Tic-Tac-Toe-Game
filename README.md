@@ -12,4 +12,4 @@ A simple Tic Tac Toe game built using JavaScript to understand DOM manipulation 
 Learning project to practice JavaScript basics.
 
 ## Author
-Harrouche Bassma
+Harrouche Basma
